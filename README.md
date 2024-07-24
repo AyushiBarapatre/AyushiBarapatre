@@ -7,8 +7,8 @@
 
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
-[![Gmail Badge](https://img.shields.io/badge/-Ayushi-D14836?logo=Gmail&logoColor=white&link=mailto:barapatreayushi@gmail.com)](mailto:barapatreayushi@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Ayushi%20Jain-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ayushibarapatre/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:barapatreayushi@gmail.com)](mailto:barapatreayushi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIN%20-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ayushibarapatre/)
 
 
 
